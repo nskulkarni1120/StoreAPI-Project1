@@ -1,2 +1,4 @@
 /node_modules
 .dotenv
+.populate.json
+.products.json
